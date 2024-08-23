@@ -1,5 +1,5 @@
-## OneTimeSetup before proceeding with GIT <br> 
-  
+## OneTimeSetup before proceeding with GIT 
+<br> 
 git config --list git config
 <br>
 git config--global user.name <"username">
@@ -24,3 +24,5 @@ git config --global user.email <"valid email address">
 
 #### git log --oneline (to see all the commits done till date in THE GIT)
 #### git checkout uniquehash value(to reuse the prev saved commit/to revert the changes done)
+
+## :)
