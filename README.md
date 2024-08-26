@@ -3,7 +3,7 @@
    ```sh
    
    ``` -->
-   # GIT 
+   # GIT cheatsheet
    ## OneTimeSetup before proceeding with GIT 
    <br>
    <br>
