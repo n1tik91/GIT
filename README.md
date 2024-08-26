@@ -110,9 +110,9 @@ git remote --v
   git log --oneline
   ```
 
-#### 2. Revert to previous commit
+#### 2. Revert to previous commit using checkout and Unique hash value
 ```sh
- git checkout uniquehash value(to revert to the previous commit done,i.e version_control)
+ git checkout uniquehash value
   ```
 
 
