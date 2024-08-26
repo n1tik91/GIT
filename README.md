@@ -4,11 +4,14 @@
    
    ``` -->
    # GIT cheatsheet
+   ### Comprehensive guide for improving git commit quality and best practices in a dedicated repository.
+   <br>
+   
    ## OneTimeSetup before proceeding with GIT 
    <br>
    <br>
    
-## Just after fresh installation
+## Just after fresh installation of git
 
 
 ```sh
