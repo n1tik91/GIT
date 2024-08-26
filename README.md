@@ -15,7 +15,7 @@
 
 
 ```sh
-git config--global user.name <"username">
+git config --global user.name <"username">
 ```
 
 ```sh 
@@ -44,11 +44,11 @@ git add .
 ##### or
 
 ```sh
-git add particular file path
+git add <particular file path>
 ```
 #### 4.Commit the changes to local repo
 ```sh
-git commit -m "  "
+git commit -m "<yourmessage>"
 ```
 #####  for eg: added new file,v1.1,inital-build.
 <br>
@@ -84,7 +84,7 @@ git pull
 
 ##### &
 ```sh
-     git push origin main branch.
+     git push origin main branch
 ```
 <br>
 <br> 
@@ -112,7 +112,7 @@ git remote --v
 
 #### 2. Revert to previous commit using checkout and Unique hash value
 ```sh
- git checkout uniquehash value
+ git checkout <uniquehash_value>
   ```
 
 
