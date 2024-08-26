@@ -1,4 +1,5 @@
 ## OneTimeSetup before proceeding with GIT 
+### just after fresh installation
 <br> 
 git config --list git config
 <br>
