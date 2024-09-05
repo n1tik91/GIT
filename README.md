@@ -4,7 +4,7 @@
    
    ``` -->
    # GIT cheatsheet
-   ### Comprehensive guide for improving git commit quality and best practices in a dedicated repository.
+   #### Comprehensive guide for learning git 
    <br>
    
    ## OneTimeSetup before proceeding with GIT 
