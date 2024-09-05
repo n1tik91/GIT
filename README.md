@@ -5,10 +5,13 @@
    ``` -->
    # GIT cheatsheet
    #### Comprehensive guide for learning git 
-   <br>
+   <br> 
+
+  ## Download git on your machine right away
+  #### https://git-scm.com/downloads
+   <br> 
    
    ## OneTimeSetup before proceeding with GIT 
-   <br>
    <br>
    
 ## Just after fresh installation of git
