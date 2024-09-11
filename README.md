@@ -47,13 +47,13 @@ git add .
 ##### or
 
 ```sh
-git add <particular file path>
+git add <particular file name/path>
 ```
 #### 4.Commit the changes to local repo
 ```sh
 git commit -m "<yourmessage>"
 ```
-#####  for eg: added new file,v1.1,inital-build.
+#####  for eg: added new file,v1.1,initial-build.
 <br>
 <br>
 
