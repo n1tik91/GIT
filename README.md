@@ -3,7 +3,7 @@
    ```sh
    
    ``` -->
-   # GIT cheatsheet
+   # GIT ¹⁰¹
    #### Comprehensive guide for learning git 
    <br> 
 
