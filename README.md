@@ -49,7 +49,14 @@ git add .
 ```sh
 git add <particular file name/path>
 ```
-#### 4.Commit the changes to local repo
+#### 4. Remove staged/selected file before commit
+##### For unstaging a file
+```sh
+git restore --staged <filename>
+```
+
+
+#### 5.Commit the changes to local repo
 ```sh
 git commit -m "<yourmessage>"
 ```
