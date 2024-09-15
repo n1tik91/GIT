@@ -25,7 +25,7 @@ git config --global user.name <"username">
 git config --global user.email <"valid email address">
 ```
 ```sh
- git config --list git config
+ git config --list 
 ```
 <br>
 
